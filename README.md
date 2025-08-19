@@ -84,7 +84,7 @@ project/
 
 ⚡ Run Locally
 # Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Prateekpkini/Chatbot-For-Analyzing-PDF.git
 cd your-repo
 
 # Install dependencies
